@@ -8,6 +8,4 @@ window.geometry("600*300")
 window.mainloop()
 
 hery
-henry
-henry
-henry
+hy
