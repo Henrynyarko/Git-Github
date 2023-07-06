@@ -7,5 +7,7 @@ window.geometry("600*300")
 
 window.mainloop()
 
-hery
-hy
+herykwame
+jnr
+kwasi ama
+naam float
