@@ -1,0 +1,6 @@
+Linux
+Git
+bash
+maven
+nexus
+Sonarqube
